@@ -114,10 +114,30 @@ lib/
 
 # Screenshots
 
+## Splash Screen
+
+![Home Screen](ScreenShots/Splash.jpeg)
+
 ## Home Screen
 
-![Home Screen](screenshots/home.jpes)
+![Home Screen](ScreenShots/home.jpeg)
+
+## Home Screen
+
+![Home Screen](ScreenShots/Category.jpeg)
+
+## Home Screen
+
+![Home Screen](ScreenShots/Search.jpeg)
+
+## Add Screen
+
+![Home Screen](ScreenShots/Add.jpeg)
 
 ## Analytics Screen
 
 ![Analytics Screen](ScreenShots/analysis.jpeg)
+
+## Home Screen
+
+![Home Screen](ScreenShots/darkmode.jpeg)
